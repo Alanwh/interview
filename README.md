@@ -4,3 +4,5 @@
 * eventEmmiter
 * ajax 实现和promise封装
 * 关键字 new 封装
+* 常见继承及其优缺点
+* 深浅拷贝
