@@ -7,3 +7,4 @@
 * 常见继承及其优缺点
 * 深浅clone
 * call, apply, bind实现
+* 数组api及去重
