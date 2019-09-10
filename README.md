@@ -6,3 +6,4 @@
 * 关键字 new 封装
 * 常见继承及其优缺点
 * 深浅clone
+* call, apply, bind实现
