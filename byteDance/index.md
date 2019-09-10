@@ -591,3 +591,14 @@ var argsArray = Array.prototype.slice.call(arguments);
 -> csrf 跨站请求伪造，以你的名义，发送恶意请求，通过 cookie 加参数等形式过滤
 我们没法彻底杜绝攻击，只能提高攻击门槛
 * cookie的有哪些安全的设置；
+
+### 猫眼面试
+1. proxy函数
+2. webpack 原理
+3. 数组去重
+4. 移动端适配/1px问题
+5. isscroll问题
+6. 图片懒加载
+7. vue/react选型对比
+8. 项目遇到哪些难点
+9. 深度拷贝
