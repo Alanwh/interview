@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <button id='btn'>按钮</button>
+    <script src="./index.js"></script>
+    <script>
+
+        var bus = new Bus();
+        var callback = function(data) {
+            console.log(data);
+        }
+        bus.on('CLICK', callback).on('CLICK', function() {
+            console.log('我是另外一个callback');
+        })
+        // bus.once('CLICK', callback);
+
+        var oBtn = document.getElementById('btn');
+        oBtn.onclick = function() {
+            bus.emit('CLICK', {a: 1, b: 2});
+            bus.emit('CLICK', [1, 2, 3, 4])
+            bus.emit('CLICK', '哈哈哈');
+            bus.off('CLICK', callback);
+        }
+    </script>
+</body>
+</html>
