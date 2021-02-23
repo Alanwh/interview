@@ -10,10 +10,11 @@
 ### 基本算法
 * [深度 clone](https://www.cnblogs.com/Mcrown/p/14435201.html)
 * [数组去重](https://www.cnblogs.com/Mcrown/p/14435191.html)
-* [快排](https://www.cnblogs.com/Mcrown/p/14435545.html)
+* [快排,选择排序](https://www.cnblogs.com/Mcrown/p/14435545.html)
 * [解析 url 返回对象](https://www.cnblogs.com/Mcrown/p/14435846.html)
 * [大数加减乘除]()
 * [函数柯理化]()
+* [正则表达式写邮箱]()
 
 ### 高频简答题
 * [BFC 理解与应用](https://juejin.cn/post/6898278714312753159#heading-3)
@@ -26,8 +27,13 @@
 * [CommonJS 和 ES Module 有何区别](https://juejin.cn/post/6844904080955932680)
 
 ### http 相关
-* https，tcp和udp的区别
+* http 和 https 的区别
+* tcp 和 udp的区别
 ### webpack 相关
+* loader 实现机制和原理
+* plugin 实现机制和原理
+* treeshaking 是怎样实现的
+
 ### 安全相关
 ### vue 相关
 * 主要是虚拟dom的实现
