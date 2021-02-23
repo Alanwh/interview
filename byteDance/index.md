@@ -56,7 +56,7 @@ function parseUrl(url){
 }
 ```
 
-* ['1.45.0','1.5','6','3.3.3.3']要求从小到大排序，注意'1.45'比'1.5'大；
+* ['1.45.0','1.5','6','3.3.3.3']要求从小到大排序，注意'1.45'比'1.5'大
 ```
 // 使用的是选择排序
 const versionSort = version => {
@@ -82,7 +82,7 @@ const versionSort = version => {
 };
 ```
 
-* 写一个parseInt函数;
+* 写一个parseInt函数
 ```
 function parseInt(s, radix = 10) {
     if (typeof s !== 'string') {
@@ -117,9 +117,9 @@ function parseInt(s, radix = 10) {
 }
 ```
 
-* 实现1000000中间加','；
+* 实现1000000中间加','
 
-* 请使用数组的reduce方法实现数组的map方法；
+* 请使用数组的reduce方法实现数组的map方法
 
 * 大数相加
 ```
