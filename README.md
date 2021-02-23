@@ -9,5 +9,5 @@
 * [reduce 实现](https://juejin.cn/post/6900447811330899981)
 
 ### 基本算法
-* 深度 clone
-* 数组去重
+* [深度 clone](https://www.cnblogs.com/Mcrown/p/14435201.html)
+* [数组去重](https://www.cnblogs.com/Mcrown/p/14435191.html)
