@@ -154,4 +154,3 @@ function sumStrings(a,b) {
     return result.join("");  
 }  
 ```
-
