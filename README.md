@@ -6,6 +6,7 @@
 * [debounce && throttle 实现](https://www.cnblogs.com/Mcrown/p/14435234.html)
 * [call && apply && bind 实现](https://www.cnblogs.com/Mcrown/p/14435224.html)
 * [reduce 实现](https://juejin.cn/post/6900447811330899981)
+* [实现模板字符串]()
 
 ### 基本算法
 * [深度 clone](https://www.cnblogs.com/Mcrown/p/14435201.html)
@@ -13,8 +14,9 @@
 * [快排,选择排序](https://www.cnblogs.com/Mcrown/p/14435545.html)
 * [解析 url 返回对象](https://www.cnblogs.com/Mcrown/p/14435846.html)
 * [大数加减乘除]()
-* [函数柯理化]()
+* [函数柯理化](https://www.cnblogs.com/blogs-xlf/p/11433528.html)
 * [正则表达式写邮箱]()
+* [背包问题]()
 
 ### 高频简答题
 * [BFC 理解与应用](https://juejin.cn/post/6898278714312753159#heading-3)
@@ -28,7 +30,10 @@
 
 ### http 相关
 * http 和 https 的区别
-* tcp 和 udp的区别
+* [TCP 的三次握手和四次挥手]()
+* [http 缓存](https://juejin.cn/post/6844903517702848526)
+* [tcp 和 udp的区别](https://juejin.cn/post/6844903800336023560)
+* [DNS 解析]()
 ### webpack 相关
 * loader 实现机制和原理
 * plugin 实现机制和原理
