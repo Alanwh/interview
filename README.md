@@ -44,9 +44,12 @@
 * 渲染机制的实现
 * [双向数据监听](https://juejin.cn/post/6844903903822086151)
 * 模板引擎的具体实现
+* [store 数据如何响应式的](https://juejin.cn/post/6873016756399505422)
 * [$nexttick 实现](https://juejin.im/post/6844903906967814151)
 * [Provide 与 Inject机制](https://juejin.cn/entry/6844903890484199437)
 * [keep-alive 原理](https://juejin.cn/post/6844903837770203144)
 ### react 相关
 #### node 相关
 ### 安全相关
+* xss 攻击
+* csrf 攻击
