@@ -24,6 +24,7 @@ function debounce(fn, wait, immediate) {
             var callNow = !timer;
             timer = setTimeout(function() {
                 timer = null;
+                fn.apply(context, args);
             }, wait);
             callNow && fn.apply(context, args);
         } else {
